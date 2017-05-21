@@ -1,0 +1,45 @@
+
+
+##Technical Blog Post Outline
+Think about how you might want to explain your topic to someone with a similar level of experience that you had at the beginning of your time at Code Fellows.
+
+####Subject
+
+I'm going to choose Recursive Programming. I want to cover three main topics.
+
+
+####Introduction
+
+1. It's purpose in programming. When to use it.
+
+shrink code down - abstraction. Express the purpose of abstraction. It's expected to be slower, but it's easier to read. Simpler code to read is easier to use. See if we can add purity to it, to make it run even smoother.
+
+2. How does a recursive program work? We are using the call stack to imitate a for loop. What does that look like? Create a diagram of the call stack and it's loop. What if we go down two routes? How is the call stack creating this for loop visually? make or include a simple graphic
+
+3. The structure of a typical recursive program. How we should think about it conceptually, and how we can apply it. Blocks to examine the important aspects of a recursion program. We need it to take two values. One that it passes to itself and one that controls the limit of the recursive function. An if else statement to determine when we pass the recrusive function to itself and when we apply the limit. Filling in the if statement. Filling in the else statement. The if statement is expressing our limiter, the else statement is expressing the purpose of the program. What our goal is!
+
+I want to use a diagram here to diagram the "parts" of the program and spell them out.
+
+4. Expanding a recursive program so we can think about it.
+
+The mathematical expansion of our recursion example as well as a diagram of our example on the stack.
+
+
+####Conclusion
+
+5. Advanced recursive functioning - Recursion trees and the master method. This is the way advanced programmers use recursion. Express what a recursion tree is, it's purpose and a solution to some master methods. This blog post already has 3-4 diagrams, it might be best to leave off an explanation of advanced recursive functioning and rather just link to an explanation of it.
+
+
+Lastly,
+review what we should remember from here
+
+
+Outline your post with as much detail as you can.
+
+Share something you have learned with those who might be interested in following a similar path.
+
+##Initial BrainStrom
+
+###Recursive Programming -
+
+I think recursive programming is a difficult concept for me to wrap my head around. I often take a for loop, in another for loop path when I can see that the problem requires a recursive solution. I think it would be interesting to write an article about how to identify for for loop problems and the structure of applying a recursive solution so I can understand the subject better.
